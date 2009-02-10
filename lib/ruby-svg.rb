@@ -1,7 +1,7 @@
-require 'ruby-svg/primatives/path'
-require 'ruby-svg/primatives/rectangle'
-require 'ruby-svg/primatives/a'
-require 'ruby-svg/complex/pie'
+require 'ruby-svg/primatives/Path'
+require 'ruby-svg/primatives/Rectangle'
+require 'ruby-svg/primatives/A'
+# require 'ruby-svg/complex/Pie'
 
 class SVG
   def initialize(args = {})

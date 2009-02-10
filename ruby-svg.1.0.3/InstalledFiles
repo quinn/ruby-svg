@@ -1,0 +1,5 @@
+/svg/core.rb
+/svg/element.rb
+/svg/misc.rb
+/svg/style.rb
+/svg/svg.rb

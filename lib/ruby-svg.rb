@@ -4,10 +4,10 @@
 # $Id: svg.rb,v 1.4 2002/09/10 09:59:08 yuya Exp $
 #==============================================================================#
 
-require 'svg/misc'
-require 'svg/core'
-require 'svg/element'
-require 'svg/style'
+require 'ruby-svg/misc'
+require 'ruby-svg/core'
+require 'ruby-svg/element'
+require 'ruby-svg/style'
 
 #==============================================================================#
 #==============================================================================#

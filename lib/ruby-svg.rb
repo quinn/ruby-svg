@@ -8,6 +8,7 @@ require 'ruby-svg/misc'
 require 'ruby-svg/core'
 require 'ruby-svg/element'
 require 'ruby-svg/style'
+require 'ruby-svg/processing'
 
 #==============================================================================#
 #==============================================================================#

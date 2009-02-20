@@ -1,0 +1,3 @@
+this library is redundant within the scope of ruby processing, look at: 
+ * http://www.texone.org/prosvg
+ * http://processing.org/reference/libraries/pdf/index.html
